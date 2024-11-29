@@ -1,2 +1,3 @@
 # Countdown Clock
- Countdown to Halloween & Xmas. (Copy over from an old CodePen)
+ Countdown to Halloween & Christmas. Copied over from one of my old CodePens, hence the minimal contributions.
+<img src="countdown.png" width=100%>
